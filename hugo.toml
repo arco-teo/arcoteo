@@ -1,7 +1,7 @@
 baseURL = '#'
 languageCode = 'gl-es'
 title = 'Arco Teo'
-theme = "relearn"
+theme = "arberia2"
 
 [params]
   # Change default color scheme with a variant one.
