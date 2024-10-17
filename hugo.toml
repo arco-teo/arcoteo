@@ -1,0 +1,8 @@
+baseURL = '#'
+languageCode = 'gl-es'
+title = 'Javascript'
+theme = "relearn"
+
+[params]
+  # Change default color scheme with a variant one.
+  themeVariant = "blue"
