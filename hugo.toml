@@ -1,8 +1,8 @@
 baseURL = '#'
 languageCode = 'gl-es'
-title = 'Javascript'
-theme = "relearn"
+title = 'Arco Teo'
+theme = "arberia"
 
 [params]
   # Change default color scheme with a variant one.
-  themeVariant = "blue"
+  # themeVariant = "blue"
