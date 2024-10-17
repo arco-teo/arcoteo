@@ -5,4 +5,5 @@ theme = "relearn"
 
 [params]
   # Change default color scheme with a variant one.
-  # themeVariant = "blue"
+   themeVariant = "blue"
+   
