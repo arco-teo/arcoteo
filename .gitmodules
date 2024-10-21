@@ -10,3 +10,6 @@
 [submodule "themes/arberia2"]
 	path = themes/arberia2
 	url = https://github.com/antedoro/arberia.git
+[submodule "themes/themes/lightbi-hugo"]
+	path = themes/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
