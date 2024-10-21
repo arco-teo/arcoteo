@@ -4,13 +4,9 @@ layout : "about"
 title: "About me"
 ---
 
-I am Bino Kochumol Varghese.
+Benvidos a Arco Teo, o noso espazo dedicado á práctica e á promoción do tiro con arco. Somos un grupo de entusiastas que compartimos a paixón por este deporte milenario, e temos como obxectivo achegar a todos os públicos a emoción e a precisión que require o tiro con arco. Desde os principiantes que queren descubrir esta disciplina por primeira vez ata os máis experimentados que buscan perfeccionar a súa técnica, en Arco Teo atoparás un lugar acolledor e preparado para practicar e aprender.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 ##### Social Media
 - [Instagram](https://www.instagram.com/binovarghese_)
