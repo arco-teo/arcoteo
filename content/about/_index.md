@@ -1,6 +1,6 @@
 ---
 type : "tags"
-layout : "sobre"
+layout : "about"
 title: "Sobre Arco Teo"
 ---
 
