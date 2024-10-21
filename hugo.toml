@@ -44,7 +44,7 @@ description="Clube de Tiro con Arco de Teo."
 
 [[menu.main]]
     name = "Tags"
-    url = "/tags/blog/"
+    url = "/tags/"
     weight = 3
 
 [[menu.main]]
