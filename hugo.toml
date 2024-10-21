@@ -1,9 +1,6 @@
 baseURL = '#'
 languageCode = 'gl-es'
 title = 'Arco Teo'
-theme = "lightbi-hugo"
+theme = 'lightbi-hugo'
 
-# [params]
-  # Change default color scheme with a variant one.
-#   themeVariant = "blue"
-   
+ 
