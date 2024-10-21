@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["newsletter"]
 image : "/img/collections/collections2.jpg"
 Description: "Articles about learning in public, brag document and free stuffs."
-Draft: 
+Draft: true
 ---
 
 Articles about learn in public, brag document and free stuffs.
