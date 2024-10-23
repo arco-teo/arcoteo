@@ -38,7 +38,7 @@ description="Clube de Tiro con Arco de Teo."
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
+    name = "Avisos"
     url = "/notes/"
     weight = 2
 
