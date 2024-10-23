@@ -53,7 +53,7 @@ description="Clube de Tiro con Arco de Teo."
     weight = 4
 
 [[menu.main]]
-    name = "About"
+    name = "Sobre nós"
     url = "/about/"
     weight = 5
 
