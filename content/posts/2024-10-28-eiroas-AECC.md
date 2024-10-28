@@ -12,7 +12,6 @@ Aquí compartimos algúns dos resultados da categoría de Recurvo Unificado:
 - 1º Anxo Rey Rodríguez: 555 puntos
 - 2º Luis Fandiño Fraga: 543 puntos
 - 3º Javier Fernández Fernández: 520 puntos
-- 14º Óscar Pinaque: 388 puntos
 
 Agradecemos a todos os arqueros que participaron e ao Clube Eiroás por organizar este  evento. Esperamos ver a todos de novo na próxima cita do calendario!
 
