@@ -15,3 +15,18 @@ Aquí compartimos algúns dos resultados da categoría de Recurvo Unificado:
 
 Agradecemos a todos os arqueros que participaron e ao Clube Eiroás por organizar este  evento. Esperamos ver a todos de novo na próxima cita do calendario!
 
+## Fotografías da xornada.
+
+![](../2024-10-28-eiroas/01.jpg)
+
+![](../2024-10-28-eiroas/02.jpg)
+
+![](../2024-10-28-eiroas/03.jpg)
+
+![](../2024-10-28-eiroas/04.jpg)
+
+![](../2024-10-28-eiroas/05.jpg)
+
+![](../2024-10-28-eiroas/06.jpg)
+
+![](../2024-10-28-eiroas/07.jpg)
