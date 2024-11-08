@@ -2,7 +2,7 @@
 title: Participación de Óscar Pinaque no Trofeo AECC 2024
 date: 2024-11-08
 tags: ["24-25"]
-image : "/img/post/2024-11-08-lancaster"
+image : "/img/post/2024-11-08-lancaster.jpg"
 description  : "O 9 de novembro, Gonzalo Escudero, Roberto Lois, Óscar Pinaque e Pablo Belay compiten no VII Lancaster Style en Ponferrada! 🏹  Moita sorte aos nosos arqueiros!"
 Draft: false
 ---
