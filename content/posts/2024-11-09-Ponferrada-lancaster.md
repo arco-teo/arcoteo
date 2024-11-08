@@ -1,5 +1,5 @@
 ---
-title: Participación de Óscar Pinaque no Trofeo AECC 2024
+title: Arqueiros de Arco Teo Compiten no VII Lancaster Style en Ponferrada
 date: 2024-11-08
 tags: ["24-25"]
 image : "/img/post/2024-11-08-lancaster.jpg"
