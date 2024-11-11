@@ -4,7 +4,7 @@ date: 2024-11-11
 tags: ["24-25"]
 image : "/img/post/2024-11-09-Ponferrada02.jpeg"
 description  : "Os arqueiros de Arco Teo brilaron no torneo con frechas certeiras. O torneo foi gañado por  Nuno Carneiro." 
-draft: true
+draft: false
 ---
 
 
