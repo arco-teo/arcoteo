@@ -26,8 +26,9 @@ A pesar das derrotas, o equipo demostrou gran competitividade e segue mellorando
 
 
 # Imaxes
-![](../2024-11-17-raus3-corme/01.jpg)
 
-![](../2024-11-17-raus3-corme/res01.jpg)
+![](../2014-11-16-adarve-xor2/01.jpg)
 
-![](../2024-11-17-raus3-corme/res02.jpg)
+![](../2014-11-16-adarve-xor2/res01.jpg)
+
+![](../2014-11-16-adarve-xor2/res02.jpg)
