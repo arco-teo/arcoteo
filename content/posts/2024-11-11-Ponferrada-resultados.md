@@ -40,6 +40,19 @@ Finalmente, na loita polo título de “Rei da Pista”, destacaron arqueiros co
 ![](../2024-11-09-ponferrada/07.jpg)
 
 
+![](../2024-11-09-ponferrada/08.jpg)
+
+
+![](../2024-11-09-ponferrada/09.jpg)
+
+
+
+![](../2024-11-09-ponferrada/10.jpg)
+
+
+
+![](../2024-11-09-ponferrada/11.jpg)
+
 
 Outra información:
 - [Información en IANSEO](https://www.ianseo.net/Details.php?toId=19207 )
