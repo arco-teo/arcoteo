@@ -16,4 +16,11 @@ Benvidos a Arco Teo, o noso espazo dedicado á práctica e á promoción do tiro
  -->
 
 #### Outra información.
-O noso clube foi constituido o 13 de abril de 2010 e foi inscrito co nº C-10438 e consta no CIF: G70237813 . 
+O noso club foi fundado o 13 de abril de 2010 e está rexistrado co número C-10438, co CIF G70237813.
+
+
+
+
+
+
+
