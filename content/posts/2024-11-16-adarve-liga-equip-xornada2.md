@@ -27,8 +27,11 @@ A pesar das derrotas, o equipo demostrou gran competitividade e segue mellorando
 
 # Imaxes
 
-![](../2014-11-16-adarve-xor2/01.jpg)
 
-![](../2014-11-16-adarve-xor2/res01.jpg)
+![Imaxe](../2014-11-16-adarve-xor2/01.jpg)
 
-![](../2014-11-16-adarve-xor2/res02.jpg)
+
+![Imaxe](../2014-11-16-adarve-xor2/res01.jpg)
+
+
+![Imaxe](../2014-11-16-adarve-xor2/res02.jpg)

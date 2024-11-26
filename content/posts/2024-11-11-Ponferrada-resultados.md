@@ -25,33 +25,33 @@ Finalmente, na loita polo título de “Rei da Pista”, destacaron arqueiros co
 
 ## Fotografías da xornada.
 
-![](../2024-11-09-ponferrada/01.jpg)
+![Imaxe](../2024-11-09-ponferrada/01.jpg)
 
-![](../2024-11-09-ponferrada/02.jpg)
+![Imaxe](../2024-11-09-ponferrada/02.jpg)
 
-![](../2024-11-09-ponferrada/03.jpg)
+![Imaxe](../2024-11-09-ponferrada/03.jpg)
 
-![](../2024-11-09-ponferrada/04.jpg)
+![Imaxe](../2024-11-09-ponferrada/04.jpg)
 
-![](../2024-11-09-ponferrada/05.jpg)
+![Imaxe](../2024-11-09-ponferrada/05.jpg)
 
-![](../2024-11-09-ponferrada/06.jpg)
+![Imaxe](../2024-11-09-ponferrada/06.jpg)
 
-![](../2024-11-09-ponferrada/07.jpg)
-
-
-![](../2024-11-09-ponferrada/08.jpg)
+![Imaxe](../2024-11-09-ponferrada/07.jpg)
 
 
-![](../2024-11-09-ponferrada/09.jpg)
+![Imaxe](../2024-11-09-ponferrada/08.jpg)
 
 
-
-![](../2024-11-09-ponferrada/10.jpg)
+![Imaxe](../2024-11-09-ponferrada/09.jpg)
 
 
 
-![](../2024-11-09-ponferrada/11.jpg)
+![Imaxe](../2024-11-09-ponferrada/10.jpg)
+
+
+
+![Imaxe](../2024-11-09-ponferrada/11.jpg)
 
 
 Outra información:
