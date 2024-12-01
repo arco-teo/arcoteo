@@ -46,9 +46,14 @@ description="Clube de Tiro con Arco de Teo."
     url = "/tags/"
     weight = 3
 
+# [[menu.main]]
+#    name = "Collections"
+#    url = "/collections/"
+#    weight = 4
+
 [[menu.main]]
-    name = "Collections"
-    url = "/collections/"
+    name = "Ferramentas"
+    url = "https://github.com/arco-teo/ferramentas"
     weight = 4
 
 [[menu.main]]
@@ -58,6 +63,6 @@ description="Clube de Tiro con Arco de Teo."
 
 
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
+  changefreq = "weekly"
+  priority = 0.7
   filename = "sitemap.xml"
