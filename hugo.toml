@@ -53,7 +53,7 @@ description="Clube de Tiro con Arco de Teo."
 
 [[menu.main]]
     name = "Ferramentas"
-    url = "https://github.com/arco-teo/ferramentas"
+    url = "https://arco-teo.github.io/ferramentas/"
     weight = 4
 
 [[menu.main]]
