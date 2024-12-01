@@ -9,40 +9,38 @@ Draft: false
   Rúa Bos Aires S/N, 15145, A Laracha, A Coruña  
   [Ver en Google Maps](https://maps.app.goo.gl/fnbi2odn17bVt2yT6)
 
-## **MODALIDADE**
+**MODALIDADE**
 
-### Arco Recurvo:
-- **Benxamín**: 12m (diana de 122cm)  
-- **Alevín**: 18m (diana de 122cm)  
-- **Infantil**: 18m (diana de 80cm reducida)  
-- **Senior**: 18m (diana triple vertical)  
+* Arco Recurvo:
+  *  **Benxamín**: 12m (diana de 122cm)  
+  *  **Alevín**: 18m (diana de 122cm)  
+  *  **Infantil**: 18m (diana de 80cm reducida)  
+  *  **Senior**: 18m (diana triple vertical)  
+*  Arco Composto:
+   *  **Absoluta**: 18m (diana triple vertical)
 
-### Arco Composto:
-- **Absoluta**: 18m (diana triple vertical)
-
-## **HORARIO DA COMPETICIÓN**
+**HORARIO DA COMPETICIÓN**
 
 - **14:30h**: Recepción de arqueiros e entrega de dorsais.  
 - **15:20h**: Tandas de entrenamento.  
 - **16:00h**: Comezo da competición.  
 - **19:30h**: Entrega de trofeos e pinchada.
 
-## **NORMATIVA**
+**NORMATIVA**
 A competición rexirase polas normas de:  
 - WA Tiro sobre Diana Aire Libre  
 - FGTA  
 - RFETA  
 
----
 
-## **CONTACTO**
+**CONTACTO**
 
 - **Presidente**: Iván Loureiro Tasende - **669004410**  
 - **Tesoureira**: Laura Toja Martínez - **667248976**  
 
----
 
-## **INSCRICIÓNS**
+
+**INSCRICIÓNS**
 
 - **Importe**: 12 €  
 - As inscricións abonaranse á conta do club co concepto:  
