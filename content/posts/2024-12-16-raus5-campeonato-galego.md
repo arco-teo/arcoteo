@@ -1,13 +1,11 @@
 ---
-title: I TROFEO ARCO LARACHA SALA
-date: 2024-12-16
-tags: ["24-25", "raus-24-25"]
+title: Campionato Galego.
+date: 2024-12-07
+tags: ["24-25"]
 image: "/img/post/2024-12-16-campeonato_galego.jpg"  
 Description: "Roberto Lois e Oscar Pinaque destacaron no 'I Trofeo Arco Laracha Sala', logrando os postos 15º e 20º en Recurvo Senior, cunha actuación que reflicte esforzo e dedicación."
 ---
 
-
----
 
 O pasado domingo 15 de decembro de 2024, os arqueiros do noso clube participaron no Campionato Galego de Tiro con Arco Recurvo, celebrado en Meis. Na cita, os nosos representantes foron **Gonzalo Fernández Escudero**, **Elena Pérez Salas**, **Roberto Lois** e **Pablo Belay**.
 
@@ -46,8 +44,29 @@ A xornada continuou coa fase de octavos de final, onde os nosos participantes no
 
 ¡Noraboa a todos os participantes!
 
+## Resultados da xornada.
+
+Recurso Senior Masculino:
+| **Posición** | **Atleta**             | **Serie 1** | **Serie 2** | **Total** | **10** | **9** |
+|--------------|------------------------|-------------|-------------|-----------|--------|-------|
+| 7            | LOIS RODRÍGUEZ Roberto | 256/ 5      | 257/ 9      | 513       | 14     | 21    |
+| 15           | BELAY FERNÁNDEZ Pablo  | 235/18      | 254/12      | 489       | 13     | 17    |
+
+Recurvo Senior Femenino: 
+| **Posición** | **Atleta**        | **Serie 1** | **Serie 2** | **Total** | **10** | **9** |
+|--------------|-------------------|-------------|-------------|-----------|--------|-------|
+| 9            | PÉREZ SALAS Elena | 195/11      | 221/ 6      | 416       | 4      | 11    |
+## Fotografías da xornada.
+
+![](../2024-12-16-campeonato-galego/01.jpg)
 
 
- [Ligazón a Ianseo](https://www.ianseo.net/Details.php?toId=19875) 
-- [Inscripcións](https://www.avaibooksports.com/inscripcion/campeonato-gallego-de-sala-2024-25-arco-r-c-b-t-l-dcd-u15-u18-u21-senior-50-plus/informacion/), o prazo finaliza o 4 de decembro de 2024 ás 22:00
-- [Pavillón de deportes de Mosteiro](https://maps.app.goo.gl/ERfm2GvjS5HxcfhW7)
+![](../2024-12-16-campeonato-galego/02.jpg)
+
+![](../2024-12-16-campeonato-galego/03.jpg)
+
+
+![](../2024-12-16-campeonato-galego/04.jpg)
+
+
+ 
