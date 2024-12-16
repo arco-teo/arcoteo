@@ -3,7 +3,7 @@ title: Campionato Galego.
 date: 2024-12-07
 tags: ["24-25"]
 image: "/img/post/2024-12-16-campeonato_galego.jpg"  
-Description: "Roberto Lois e Oscar Pinaque destacaron no 'I Trofeo Arco Laracha Sala', logrando os postos 15º e 20º en Recurvo Senior, cunha actuación que reflicte esforzo e dedicación."
+Description: "O 15 de decembro de 2024, os arqueiros do noso club participaron no Campionato Galego de Tiro con Arco en Meis. Roberto Lois, Pablo Belay e Gonzalo Fernández representaron á categoría masculina, mentres que Elena Pérez foi a nosa representante feminina. Todos destacaron nas súas respectivas categorías."
 ---
 
 
@@ -56,6 +56,8 @@ Recurvo Senior Femenino:
 | **Posición** | **Atleta**        | **Serie 1** | **Serie 2** | **Total** | **10** | **9** |
 |--------------|-------------------|-------------|-------------|-----------|--------|-------|
 | 9            | PÉREZ SALAS Elena | 195/11      | 221/ 6      | 416       | 4      | 11    |
+
+
 ## Fotografías da xornada.
 
 ![](../2024-12-16-campeonato-galego/01.jpg)
