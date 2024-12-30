@@ -3,8 +3,8 @@ title: Torneo Social de  Adarve en Sala.
 date: 2024-12-29
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2024-10-19-adarve_01.jpg"
-Description  : ". "
-draft: true 
+Description  : "O Clube de Tiro con Arco TEO brillou na Tirada Social en Tabeaio, organizada por ADARVE. Nunha xornada chea de esforzo e camaradería "
+#draft: true 
 ---
 O pasado sábado, 28 de decembro de 2024, o Clube de Tiro con Arco TEO participou na Tirada Social organizada nas instalacións de ADARVE, en Tabeaio. Nun ambiente de camaradería e espírito deportivo, os nosos arqueiros e arqueiras destacaron nunha xornada chea de esforzo, superación e grandes resultados.
 
