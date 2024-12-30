@@ -1,7 +1,7 @@
 ---
 title: Campionato Galego.
 date: 2024-12-15
-tags: ["24-25"]
+tags: ["raus-24-25","24-25"]
 image: "/img/post/2024-12-16-campeonato_galego.jpg"  
 Description: "O 15 de decembro de 2024, os arqueiros do noso club participaron no Campionato Galego de Tiro con Arco en Meis. Roberto Lois, Pablo Belay e Gonzalo Fernández representaron á categoría masculina, mentres que Elena Pérez foi a nosa representante feminina. Todos destacaron nas súas respectivas categorías."
 ---
