@@ -1,6 +1,6 @@
 ---
-title: $ª Xornada da Liga ADARVE.
-date: 2024-12-21
+title: 5ª Xornada da Liga ADARVE.
+date: 2025-01-12
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2025-01-12-adarve_04.jpg"
 Description  : "Arco Teo logrou 12 puntos e 875 no total na cuarta xornada da Liga por Equipos de Adarve, demostrando gran competitividade e mellora continua."
