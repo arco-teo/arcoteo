@@ -1,5 +1,5 @@
 ---
-title: 5ª Xornada da Liga ADARVE.
+title: 4ª Xornada da Liga ADARVE.
 date: 2025-01-12
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2025-01-12-adarve_04.jpg"
