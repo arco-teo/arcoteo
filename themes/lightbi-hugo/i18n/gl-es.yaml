@@ -1,0 +1,73 @@
+# Contido
+- id: dateFormat
+  translation: "2 de xaneiro, 2006"
+- id: shortdateFormat
+  translation: "2 Xan, 2006 15:04:05"
+- id: postedOnDate
+  translation: "Publicado o {{ . }}"
+- id: lastModified
+  translation: "(Última modificación o {{ . }})"
+- id: translationsLabel
+  translation: "Outros idiomas: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Ler máis"
+- id: olderPosts
+  translation: "Artigos anteriores"
+- id: newerPosts
+  translation: "Artigos seguintes"
+- id: previousPost
+  translation: "Artigo anterior"
+- id: nextPost
+  translation: "Artigo seguinte"
+- id: readTime
+  translation: "minutos"
+- id: words
+  translation: "palabras"
+
+# Páxina 404
+- id: pageNotFound
+  translation: "Ups! Esta páxina non existe (erro 404)"
+
+# Pé de páxina
+- id: poweredBy # Accepta HTML
+  translation: 'Powered by Pablo.&nbsp;'
+
+# Navegación
+- id: toggleNavigation
+  translation: "Alternar navegación"
+- id: languageSwitcherLabel
+  translation: "Idioma"
+- id: gcseLabelShort
+  translation: "Buscar"
+- id: gcseLabelLong
+  translation: "Buscar en {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Pechar"
+
+# Staticman
+- id: noComment
+  translation: "Sen comentarios"
+- id: oneComment
+  translation: "comentario"
+- id: moreComment
+  translation: "comentarios"
+- id: useMarkdown
+  translation: "Podes usar a sintaxe de Markdown"
+- id: yourName
+  translation: "O teu nome"
+- id: yourEmail
+  translation: "O teu correo electrónico"
+- id: yourWebsite
+  translation: "O teu sitio web"
+
+# Delayed Disqus
+- id: show
+  translation: "Amosar"
+- id: comments
+  translation: "comentarios"
+
+# Artigos relacionados
+- id: seeAlso
+  translation: "Ver tamén"
