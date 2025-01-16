@@ -13,6 +13,32 @@ mainSections = ["post","posts"]
 dateFormat = "02 January 2006"
 comments = false
 
+keywords = [
+    "arco recurvo en Teo",
+    "arco recurvo en Santiago",
+    "arco recurvo en Santiago de Compostela",
+    "arco olímpico en Teo",
+    "arco olímpico en Santiago",
+    "arco olímpico en Santiago de Compostela",
+    "tiro con arco en Teo",
+    "tiro con arco en Santiago",
+    "tiro con arco en Santiago de Compostela",
+    "tiro con arco en Galicia",
+    "tiro con arco olímpico",
+    "como practicar tiro con arco en Teo",
+    "como practicar tiro con arco en Santiago",
+    "como practicar tiro con arco en Santiago de Compostela",
+    "arcos recurvos para principiantes en Santiago",
+    "arcos deportivos en Santiago de Compostela",
+    "tiro con arco tradicional en Teo",
+    "tiro con arco tradicional en Santiago",
+    "clases de tiro con arco en Teo",
+    "clases de tiro con arco en Santiago de Compostela",
+    "equipamento para tiro con arco en Galicia",
+    "eventos de tiro con arco en Galicia",
+    "eventos de tiro con arco en Santiago de Compostela"
+]
+
 previewCardImagePlacement = "top"
 selfHosted = true
 readingTime = false
