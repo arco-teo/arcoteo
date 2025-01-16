@@ -1,6 +1,6 @@
 baseURL = '#'
 languageCode = 'gl-es'
-title = 'Arco Teo'
+title = 'ArcoTeo'
 theme = 'lightbi-hugo'
 
 enableRobotsTXT = true
@@ -28,7 +28,7 @@ lastmod = false
 rss = true
 pagination = "10"
 hideAuthor = false
-description="Clube de Tiro con Arco de Teo."
+description="Clube de Tiro con ArcoTeo."
 
    
 [[menu.main]]
