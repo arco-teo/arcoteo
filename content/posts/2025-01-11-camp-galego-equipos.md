@@ -1,5 +1,5 @@
 ---
-title: CAMPIONATO GALEGO DE EQUIPOS DE CLUB EN SALA 2024 25
+title: Campionato Galego de Equipos  de club en sala 2024/2025
 date: 2025-01-19
 tags: ["24-25"]
 image : "/img/post/2025-01-19-galego.jpg"
