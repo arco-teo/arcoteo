@@ -1,6 +1,6 @@
 ---
 title: CAMPIONATO GALEGO DE EQUIPOS DE CLUB EN SALA 2024 25
-date: 2025-01-11
+date: 2025-01-19
 tags: ["24-25"]
 image : "/img/post/2025-01-19-galego.jpg"
 Description  : "Os arqueiros de Teo xunto aos compañeiros de ADARVE, non conseguiron repetir o terceiro posto. Continuan agardando  a publicación dos resultados oficiais da competición en IANSEO."
