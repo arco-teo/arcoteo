@@ -9,6 +9,7 @@ date: 2025-01-09
 - **CLASE** : Senior, Veterano, Junior e Cadete.
 - **INSCRIPCION** : 20 €, que se abonarán na conta do Club Sílex en  Banca de As Pontes ES71 2080-5200-3830-4000-3663
 - [Convocatoria](2025-01-09-silex-vegas.pdf)
+- [Ligazón a IANSEO](https://www.ianseo.net/Details.php?toId=20987)
 
 <!---
 - [Ligazón a Ianseo](https://www.ianseo.net/Details.php?toId=20170) 
