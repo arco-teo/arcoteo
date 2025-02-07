@@ -1,5 +1,5 @@
 // Clave da API (coloca a túa propia clave da API de Google aquí)
-const API_KEY = 'YOUR_API_KEY';
+const API_KEY = 'AIzaSyAAykynVd3rr1PgyY7rKitp495x9eqZ6iI';
 
 // Calendarios de Google que queres mostrar
 const CALENDAR_IDS = [
