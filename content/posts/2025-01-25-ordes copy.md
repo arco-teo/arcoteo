@@ -1,0 +1,70 @@
+---
+title: Destacada participación do Clube Arco Teo no   Torneo Concello de Ordes.
+date: 2025-01-25
+tags: ["24-25"]
+image : "/img/post/2025-01-25-ordes.jpg"  
+Description  : "O Club ArcoTeo participou no Torneo Concello de Ordes, logrando uns resultados destacados con varios postos no podio nas categorías novel e sénior. "
+
+---
+
+O Club ArcoTeo participou no Torneo Concello de Ordes, celebrado o pasado 25 de xaneiro de 2025. Este evento foi un escenario destacado para varios dos nosos membros, que acadaron excelentes resultados.
+
+
+Na modalidade novel, os alumnos da  escola de  tiro con arco destacaron obtendo postos no podio:
+  
+* Brandán Preto conseguiu a 3ª posición na súa  categoría.
+* Lola logrou subir ao podio na categoría alevín  feminino.
+* Pilar obtivo o 2º posto na categoría sénior feminino.
+* Brais Preto proclamouse campión na categoría sénior  masculina, acadando a 1ª posición.
+* Antonio Reguera ocupou a 3ª posición na categoría sénior masculina.
+
+
+Na modalidade sénior, tamén destacaron:
+
+* Roberto Lois alcanzou a 1ª posición na categoría sénior masculina, con 267 puntos.
+* Óscar Pinaque acadou a 3ª posición na mesma categoría, con 266 puntos.
+
+
+O torneo foi organizado polo Concello de Ordes en colaboración co club de tiro con arco Adarve. A competición consistiu nunha única serie de 12 tiradas, cada unha composta por 3 frechas, sumando un total de 36 frechas. Este evento foi unha oportunidade ideal para que os arqueiros do club mostrasen o seu talento, esforzo e dedicación.
+
+
+
+
+ 
+## Fotografías da xornada.
+
+![](../2025-01-25-ordes/01.jpg)
+
+
+![](../2025-01-25-ordes/02.jpg)
+
+
+![](../2025-01-25-ordes/03.jpg)
+
+
+![](../2025-01-25-ordes/04.jpg)
+
+![](../2025-01-25-ordes/05.jpg)
+
+
+![](../2025-01-25-ordes/06.jpg)
+
+
+![](../2025-01-25-ordes/07.jpg)
+
+![](../2025-01-25-ordes/08.jpg)
+
+![](../2025-01-25-ordes/09.jpg)
+
+![](../2025-01-25-ordes/10.jpg)
+
+![](../2025-01-25-ordes/11.jpg)
+
+![](../2025-01-25-ordes/12.jpg)
+
+![](../2025-01-25-ordes/13.jpg)
+
+![](../2025-01-25-ordes/14.jpg)
+
+![](../2025-01-25-ordes/15.jpg)
+
