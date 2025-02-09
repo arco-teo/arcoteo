@@ -1,8 +1,8 @@
 ---
-title: Destacada participación do Clube Arco Teo no   Torneo Concello de Ordes.
-date: 2025-01-25
+title: Sylex Style en As Pontes.
+date: 2025-02-02
 tags: ["24-25"]
-image : "/img/post/2025-01-25-ordes.jpg"  
+image : "/img/post/2025-02-02-silex.jpg"  
 Description  : "O Club ArcoTeo participou no Torneo Concello de Ordes, logrando uns resultados destacados con varios postos no podio nas categorías novel e sénior. "
 
 ---
