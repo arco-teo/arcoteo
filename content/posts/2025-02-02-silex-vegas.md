@@ -3,7 +3,7 @@ title: Sylex Style en As Pontes.
 date: 2025-02-02
 tags: ["24-25"]
 image : "/img/post/2025-02-02-silex.jpg"  
-Description  : "Na  XXV Trofeo Concello de As Pontes  en formato Las Vegas modificado "Silex Style". No evento participaron os arqueiros Elena, Roberto, Óscar e Pablo."
+Description  : "Na  XXV Trofeo Concello de As Pontes  en formato Las Vegas modificado `Silex Style`. No evento participaron os arqueiros Elena, Roberto, Óscar e Pablo."
 
 
 ---
