@@ -1,5 +1,5 @@
 ---
-title: 🎯 TEO Brilla no Torneo de Escolas en Tabeaio! 🏹💙
+title: 🎯 TEO Brila no Torneo de Escolas en Tabeaio! 🏹💙
 date: 2025-02-22
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2025-02-22-social-adarve.jpeg"
