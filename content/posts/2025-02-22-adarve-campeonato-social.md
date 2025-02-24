@@ -26,8 +26,44 @@ Na categoría masculina, **Gonzalo Fernández Escudero** acadou o máis alto do 
 
 En resumo, foi unha xornada para lembrar, chea de emocións, bos momentos e excelentes resultados.   ¡Adiante, TEO! 💙🏹
 
+## Clasificación
 
-
+| Posición 	| Nombre                     	| Club         	| Puntos 	| 
+|----------	|----------------------------	|--------------	|--------	| 
+| 1°       	| GONZALO FERNÁNDEZ ESCUDERO 	| TEO          	| 319    	| 
+| 2°       	| LUIS FANDIÑO FRAGA         	| ORDES        	| 310    	| 
+| 3°       	| PABLO BELAY FERNÁNDEZ      	| TEO          	| 302    	| 
+| 4°       	| PABLO MENDOZA CAMAÑO       	| ORDES        	| 283    	| 
+| 5°       	| ROBERTO LOIS RODRÍGUEZ     	| TEO          	| 269    	| 
+| 6°       	| SERAFÍN RODRÍGUEZ RÍOS     	| ADARVE       	| 263    	| 
+| 7°       	| PABLO REGUEIRO MORANDEIRA  	| ADARVE       	| 263    	| 
+| 8°       	| ENZO GRAÑA NÚÑEZ           	| ADARVE       	| 261    	| 
+| 9°       	| ANDERSON MARTÍNS DA SILVA  	| ORDES        	| 254    	| 
+| 10°      	| JOSÉ M. CASTRO DAPEÑA      	| BETANZOS     	| 238    	| 
+| 11°      	| MIGUEL TASENDE CASTIÑEIRAS 	| ARCO LARACHA 	| 162    	| 
+| 12°      	| MANUEL AREAL FERNÁNDEZ     	| BETANZOS     	| 161    	| 
+| 13°      	| ALBERTO MALLO MALLO        	| ORDES        	| 80     	| 
+|          	| SENIOR FEMENINO            	|              	|        	| 
+| 1°       	| ELENA PÉREZ SALAS          	| TEO          	| 289    	| 
+| 2°       	| PILAR CANDAL BRANDARIZ     	| ORDES        	| 259    	| 
+| 3°       	| MARTA VEIGA ROEL           	| BETANZOS     	| 136    	| 
+| 4°       	| ALBA VISOS MÍGUEZ          	| ORDES        	| 108    	| 
+| 5°       	| VICKY CALVIÑO POMBO        	| ORDES        	| 89     	| 
+| 6°       	| ISABEL CREO CARRASCO       	| BETANZOS     	| 84     	| 
+|          	| NOVEL                      	|              	|        	| 
+| 1°       	| PILAR COSTA PENA           	| TEO          	| 323    	| 
+| 2°       	| MARGA MARTÍNEZ ORTEGA      	| ADARVE       	| 319    	| 
+| 3°       	| ANA B. VÁZQUEZ RAÑA        	| ORDES        	| 309    	| 
+| 4°       	| INÉS PORTELA BARREIRO      	| TEO          	| 298    	| 
+| 5°       	| ANTº A. REGUERA TABERNERO  	| TEO          	| 288    	| 
+| 6°       	| CHARO PAZOS GÓMEZ          	| ORDES        	| 248    	| 
+|          	| ALEVIN                     	|              	|        	| 
+| 1°       	| ERIC CASTRO CARRO          	| BETANZOS     	| 285    	| 
+| 2°       	| NATHAN TASENDE LORENZO     	| ARCO LARACHA 	| 267    	| 
+| 3°       	| NICOLÁS DE ASPE MARTÍNEZ   	| ADARVE       	| 267    	| 
+| 4°       	| LOLA LOURO CALVO           	| TEO          	| 226    	| 
+| 5°       	| SIMÓN GONZÁLEZ MÁRQUEZ     	| TEO          	| 219    	| 
+| 6°       	| XURXO CARRACEDO ROMERO     	| TEO          	| 209    	| 
 
 Fonte: [Facebook](https://www.facebook.com/photo/?fbid=8961632453959967&set=a.112309355559032)
 ## Imáxenes
