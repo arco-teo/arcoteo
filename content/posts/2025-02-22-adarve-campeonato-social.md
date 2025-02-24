@@ -1,6 +1,6 @@
 ---
 title: 🎯 TEO Brilla na Tirada Social en Tabeaio! 🏹💙
-date: 2024-12-29
+date: 2025-02-22
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2025-02-22-social-adarve.jpeg"
 Description  : " 🏆 Gran Xornada en Tabeaio:Gonzalo Fernández Escudero,  Pilar Costa Pena e Elena Pérez Salas Brillan no Podio! 🏹💙 "
