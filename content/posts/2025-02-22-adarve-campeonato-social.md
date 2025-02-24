@@ -7,7 +7,7 @@ Description  : " 🏆 Gran Xornada en Tabeaio:Gonzalo Fernández Escudero,  Pila
 #draft: true 
 ---
 
-O pasado sábado, 22 de febreiro de 2025, o Clube de Tiro con Arco TEO viviu unha xornada inesquecible na Tirada Social organizada nas instalacións de ADARVE, en Tabeaio. Nun ambiente cheo de camaradería e espírito deportivo, os nosos arqueiros e arqueiras deron o mellor de si, demostrando esforzo, superación e unha enorme paixón polo tiro con arco.
+O pasado sábado, 22 de febreiro de 2025, o Clube   Arco TEO viviu unha xornada inesquecible na Tirada Social organizada nas instalacións de ADARVE, en Tabeaio. Nun ambiente cheo de amizades e espírito deportivo, os nosos arqueiros e arqueiras deron o mellor de si, demostrando esforzo, superación e unha enorme paixón polo tiro con arco.
 
 A participación do TEO foi todo un éxito, cunha combinación perfecta de diversión e competición saudable. As familias, amigos e seguidores que nos acompañaron fixeron que cada frecha lanzada fora máis significativa. Grazas a todos por facer desta xornada unha experiencia única! 
 
@@ -43,19 +43,19 @@ En resumo, foi unha xornada para lembrar, chea de emocións, bos momentos e exce
 | 11°      	| MIGUEL TASENDE CASTIÑEIRAS 	| ARCO LARACHA 	| 162    	| 
 | 12°      	| MANUEL AREAL FERNÁNDEZ     	| BETANZOS     	| 161    	| 
 | 13°      	| ALBERTO MALLO MALLO        	| ORDES        	| 80     	| 
-|          	| SENIOR FEMENINO            	|              	|        	| 
+|          	| **SENIOR FEMININO**          	|              	|        	| 
 | 1°       	| ELENA PÉREZ SALAS          	| TEO          	| 289    	| 
 | 2°       	| PILAR CANDAL BRANDARIZ     	| ORDES        	| 259    	| 
 | 3°       	| MARTA VEIGA ROEL           	| BETANZOS     	| 136    	| 
 | 4°       	| ALBA VISOS MÍGUEZ          	| ORDES        	| 108    	| 
 | 5°       	| VICKY CALVIÑO POMBO        	| ORDES        	| 89     	| 
 | 6°       	| ISABEL CREO CARRASCO       	| BETANZOS     	| 84     	| 
-|          	| NOVEL                      	|              	|        	| 
+|          	| **NOVEL**                      	|              	|        	| 
 | 1°       	| PILAR COSTA PENA           	| TEO          	| 323    	| 
 | 2°       	| MARGA MARTÍNEZ ORTEGA      	| ADARVE       	| 319    	| 
 | 3°       	| ANA B. VÁZQUEZ RAÑA        	| ORDES        	| 309    	| 
 | 4°       	| INÉS PORTELA BARREIRO      	| TEO          	| 298    	| 
-| 5°       	| ANTº A. REGUERA TABERNERO  	| TEO          	| 288    	| 
+| 5°       	| ANTONIO A. REGUERA TABERNERO  | TEO          	| 288    	| 
 | 6°       	| CHARO PAZOS GÓMEZ          	| ORDES        	| 248    	| 
 |          	| ALEVIN                     	|              	|        	| 
 | 1°       	| ERIC CASTRO CARRO          	| BETANZOS     	| 285    	| 
