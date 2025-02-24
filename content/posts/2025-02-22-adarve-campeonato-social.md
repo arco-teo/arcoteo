@@ -1,12 +1,11 @@
 ---
-title: Torneo Social de  Adarve de  Sala.
+title: 🎯 TEO Brilla na Tirada Social en Tabeaio! 🏹💙
 date: 2024-12-29
 tags: ["adarve24-25", "24-25"]
 image : "/img/post/2025-02-22-social-adarve.jpeg"
 Description  : " 🏆 Gran Xornada en Tabeaio:Gonzalo Fernández Escudero,  Pilar Costa Pena e Elena Pérez Salas Brillan no Podio! 🏹💙 "
 #draft: true 
 ---
-# 🎯 TEO Brilla na Tirada Social en Tabeaio! 🏹💙
 
 O pasado sábado, 22 de febreiro de 2025, o Clube de Tiro con Arco TEO viviu unha xornada inesquecible na Tirada Social organizada nas instalacións de ADARVE, en Tabeaio. Nun ambiente cheo de camaradería e espírito deportivo, os nosos arqueiros e arqueiras deron o mellor de si, demostrando esforzo, superación e unha enorme paixón polo tiro con arco.
 
