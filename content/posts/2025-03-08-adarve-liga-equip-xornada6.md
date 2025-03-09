@@ -19,39 +19,42 @@ Con esta competición, os arqueiros de ArcoTeo **dan por finalizada a tempada de
 
 
 [Consulta os resultados](https://docs.google.com/spreadsheets/d/1gygWKIQX21a8ha2O_VllJcGtSTHoihNjnocNm11XQVo/edit?gid=351339145#gid=351339145)
+
 # Vídeo Resumo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P8gTKHi3bug" frameborder="0" allowfullscreen></iframe>
+[![Ver vídeo](https://img.youtube.com/vi/P8gTKHi3bug/0.jpg)](https://youtu.be/P8gTKHi3bug)
+
+
 
 
 # Imaxes
 
  
 
-![Imaxe](../2025-03-08-adarve-xor6/logo/01.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/02.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/03.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/04.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/05.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/06.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/07.jpeg)
-logo/
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/08.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/09.jpeg)
-logo/
-![Imaxe](../2025-03-08-adarve-xor6/logo/10.jpeg)
+![Imaxe](../2025-03-08-adarve-xor6/01.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/02.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/03.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/04.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/05.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/06.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/07.jpeg)
 
 
-![Imaxe](../2025-03-08-adarve-xor6/logo/res01.jpeg)
+![Imaxe](../2025-03-08-adarve-xor6/08.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/09.jpeg)
+
+![Imaxe](../2025-03-08-adarve-xor6/10.jpeg)
 
 
-![Imaxe](../2025-03-08-adarve-xor6/logo/res03.jpeg)
+![Imaxe](../2025-03-08-adarve-xor6/res01.jpeg)
+
+
+![Imaxe](../2025-03-08-adarve-xor6/res03.jpeg)
 
