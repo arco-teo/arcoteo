@@ -1,5 +1,5 @@
 ---
-title: ArcoTeo acada o 3º posto na liga
+title: ArcoTeo acada o 3º posto na liga de Equipos ADARVE
 date: 2025-03-08
 tags: ["adarve24-25", "24-25"]
 keywords: ['adarve', 'equipos', '24-25', 'arco recurvo']
