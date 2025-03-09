@@ -3,8 +3,8 @@ title: ArcoTeo acada o 3º posto na liga
 date: 2025-03-08
 tags: ["adarve24-25", "24-25"]
 keywords: ['adarve', 'equipos', '24-25', 'arco recurvo']
-image : "/img/post/2025-02-08-adarve_05.jpeg"
-Description  : "Arco Teo logrou 9 puntos e 827 no total na quinta xornada da Liga por Equipos de Adarve.Con este resultado, o equipo consolídase na primeira posición da liga cun triplo empate polo primeiro posto antes da última xornada."
+image : "/img/post/2025-03.02-adarve_06.jpeg"
+Description  : "O equipo ArcoTeo finalizou a liga cun destacado 3º posto, tras seis xornadas de competición. O conxunto, formado por sete arqueiros teenses, compartiu podio con Arqueiros de Ordes e CELTA Villaduck. "
 
 ---
 
