@@ -19,6 +19,9 @@ Con esta competición, os arqueiros de ArcoTeo **dan por finalizada a tempada de
 
 
 [Consulta os resultados](https://docs.google.com/spreadsheets/d/1gygWKIQX21a8ha2O_VllJcGtSTHoihNjnocNm11XQVo/edit?gid=351339145#gid=351339145)
+# Vídeo Resumo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8gTKHi3bug" frameborder="0" allowfullscreen></iframe>
 
 
 # Imaxes
