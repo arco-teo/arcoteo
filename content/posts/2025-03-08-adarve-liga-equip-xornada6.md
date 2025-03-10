@@ -11,7 +11,7 @@ Description  : "O equipo ArcoTeo finalizou a liga cun destacado 3º posto, tras 
 
 O equipo **ArcoTeo** finalizou a tempada de liga cun destacado **3º posto**, poñendo o broche final a unha intensa tempada de sala. A competición, que constou de **seis xornadas entre o 19 de outubro de 2024 e o 8 de marzo de 2024**, reuniu aos mellores arqueiros da contorna, destacando o nivel e a evolución dos participantes.  
 
-O equipo teense estivo conformado por **Gonzalo Escudero, Roberto Lois, Óscar Pinaque, Elena Pérez, Pablo Belay, Raúl Gómez e Jorge Santos**, que deron o máximo en cada xornada. O primeiro posto foi para os **Arqueiros de Ordes**, seguidos polos **lucenses de CELTA Villaduck**, completando así o podio desta liga.  
+O equipo teense estivo conformado por **Gonzalo Escudero, Roberto Lois, Óscar Pinaque, Elena Pérez, Pablo Belay, Raúl Gómez, Sergio Cantalejo e Jorge Santos**, que deron o máximo en cada xornada. O primeiro posto foi para os **Arqueiros de Ordes**, seguidos polos **lucenses de CELTA Villaduck**, completando así o podio desta liga.  
 
 Con esta competición, os arqueiros de ArcoTeo **dan por finalizada a tempada de sala** e xa se preparan para o seu primeiro desafío ao aire libre. O vindeiro fin de semana comezarán a nova tempada en **Redondela**.
 
