@@ -16,7 +16,7 @@ with open("datos_archeros.csv", mode="w", newline="", encoding="utf-8") as file:
     ])  # Escribimos los encabezados de las columnas
 
     # Iterar sobre las licencias (ajustar el rango según sea necesario)
-    for licencia in range(0, 10000):  # Cambiar el rango según lo necesites
+    for licencia in range(10000,15000):  # Cambiar el rango según lo necesites
         url = f"{base_url}?licencia={licencia}"
         response = requests.get(url, headers=headers)
 
