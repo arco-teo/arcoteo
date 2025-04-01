@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Verificador de Socio - ArcoTeo</title>
+    <title>Verificador de Socio/a - ArcoTeo</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
     <style>
         body { 
@@ -66,6 +66,14 @@
 
             logo.onload = function() {
                 doc.addImage(logo, 'PNG', 65, 10, 40, 40);
+                
+                // Engadir un borde negro ao redor do PDF
+                doc.setDrawColor(177,182, 175); // Gris
+                doc.setLineWidth(1);
+                doc.rect(1, 1, 103, 72); // Adaptado ao formato A7
+
+
+
 
                 doc.setFontSize(12);
                 doc.setFont('helvetica', 'bold');
