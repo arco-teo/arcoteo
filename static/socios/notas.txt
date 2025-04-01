@@ -46,7 +46,96 @@
     let cadeaDecode= atob(cadea);
     let socios= JSON.parse(cadeaDecode);
 
-
+    /*
+        const socios = [
+            {
+                "Nome": "Pablo",
+                "Apelidos": "Belay Fernández",
+                "DNI": "76933928D",
+                "Localidade": "Teo" 
+            },
+            {
+                "Nome": "Isaac",
+                "Apelidos": "Fernández Iseres",
+                "DNI": "43447818J",
+                "Localidade": "Vedra" 
+            },
+            {
+                "Nome": "Miriam",
+                "Apelidos": "Rodriguez Cid",
+                "DNI": "34974280C",
+                "Localidade": "Vedra" 
+            },
+             {
+                "Nome": "Sergio",
+                "Apelidos": "Cantalejo Diez",
+                "DNI": "36557159Q",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Félix",
+                "Apelidos": "Salvado Regueira",
+                "DNI": "44834818K",
+                "Localidade": "Santiago de Compostela" 
+            },
+             {
+                "Nome": "Inés",
+                "Apelidos": "Portela Barreiro",
+                "DNI": "44842143D",
+                "Localidade": "Teo" 
+            },
+            {
+                "Nome": "Gonzalo",
+                "Apelidos": "Fernández Escudero",
+                "DNI": "36143107X",
+                "Localidade": "Ames" 
+            },
+             {
+                "Nome": "Elena",
+                "Apelidos": "Pérez Salas",
+                "DNI": "33539301B",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Martín",
+                "Apelidos": "Domínguez Díaz",
+                "DNI": "46091033E",
+                "Localidade": "Santiago de Compostela" 
+            },
+            
+             {
+                "Nome": "María Pilar",
+                "Apelidos": "Costa Pena",
+                "DNI": "76360669W",
+                "Localidade": "Vedra" 
+            },
+            
+             {
+                "Nome": "Óscar",
+                "Apelidos": "Pinaque Pérez",
+                "DNI": "33301605C",
+                "Localidade": "Santiago de Compostela" 
+            },
+             {
+                "Nome": "Jorge Manuel",
+                "Apelidos": "Santos Riveiro",
+                "DNI": "52935532C",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Raúl",
+                "Apelidos": "Gómez Varo",
+                "DNI": "34978637F",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Brais",
+                "Apelidos": "Preto Fernández",
+                "DNI": "33998105B",
+                "Localidade": "Santiago de Compostela" 
+            }
+        ];
+*/
         async function generatePDF() {
             const { jsPDF } = window.jspdf;
             const dniInput = document.getElementById('dniInput').value;
