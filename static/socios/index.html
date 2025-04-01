@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Verificador de Socio - ArcoTeo</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background-color: #f0f0f0; 
+            text-align: center;
+        }
+        input {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .error { color: red; margin-top: 10px; }
+        .instructions { margin-top: 20px; font-size: 14px; color: #666; }
+    </style>
+</head>
+<body>
+    <img src="logo.png" alt="Logo ArcoTeo" width="200">
+    <h1>Verificador de Socio - ArcoTeo</h1>
+    <p class="instructions">Introduce o teu DNI no campo de texto e preme o botón para xerar o carné.</p>
+    <p class="instructions">O formato ten que ser 0000000X</p>
+    <input type="text" id="dniInput" placeholder="Introduce o DNI">
+    <button onclick="generatePDF()">Xerar Carné</button>
+    <p id="error" class="error"></p>
+
+    <script>
+        const socios = [
+            {
+                "Nome": "Pablo",
+                "Apelidos": "Belay Fernández",
+                "DNI": "76933928D",
+                "Localidade": "Teo" 
+            },
+            {
+                "Nome": "Isaac",
+                "Apelidos": "Fernández Iseres",
+                "DNI": "43447818J",
+                "Localidade": "Vedra" 
+            },
+            {
+                "Nome": "Miriam",
+                "Apelidos": "Rodriguez Cid",
+                "DNI": "34974280C",
+                "Localidade": "Vedra" 
+            },
+             {
+                "Nome": "Sergio",
+                "Apelidos": "Cantalejo Diez",
+                "DNI": "36557159Q",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Félix",
+                "Apelidos": "Salvado Regueira",
+                "DNI": "44834818K",
+                "Localidade": "Santiago de Compostela" 
+            },
+             {
+                "Nome": "Inés",
+                "Apelidos": "Portela Barreiro",
+                "DNI": "44842143D",
+                "Localidade": "Teo" 
+            },
+            {
+                "Nome": "Gonzalo",
+                "Apelidos": "Fernández Escudero",
+                "DNI": "36143107X",
+                "Localidade": "Ames" 
+            },
+             {
+                "Nome": "Elena",
+                "Apelidos": "Pérez Salas",
+                "DNI": "33539301B",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Martín",
+                "Apelidos": "Domínguez Díaz",
+                "DNI": "46091033E",
+                "Localidade": "Santiago de Compostela" 
+            },
+            
+             {
+                "Nome": "María Pilar",
+                "Apelidos": "Costa Pena",
+                "DNI": "76360669W",
+                "Localidade": "Vedra" 
+            },
+            
+             {
+                "Nome": "Óscar",
+                "Apelidos": "Pinaque Pérez",
+                "DNI": "33301605C",
+                "Localidade": "Santiago de Compostela" 
+            },
+             {
+                "Nome": "Jorge Manuel",
+                "Apelidos": "Santos Riveiro",
+                "DNI": "52935532C",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Raúl",
+                "Apelidos": "Gómez Varo",
+                "DNI": "34978637F",
+                "Localidade": "Teo" 
+            },
+             {
+                "Nome": "Brais",
+                "Apelidos": "Preto Fernández",
+                "DNI": "33998105B",
+                "Localidade": "Santiago de Compostela" 
+            }
+        ];
+
+        async function generatePDF() {
+            const { jsPDF } = window.jspdf;
+            const dniInput = document.getElementById('dniInput').value;
+            const errorElement = document.getElementById('error');
+
+            const socio = socios.find(s => s.DNI === dniInput);
+
+            if (!socio) {
+                errorElement.textContent = 'DNI non encontrado.';
+                return;
+            }
+
+            const doc = new jsPDF({ format: 'a7', orientation: 'landscape' });
+
+            const logo = new Image();
+            logo.src = 'logo.png';
+
+            logo.onload = function() {
+                doc.addImage(logo, 'PNG', 65, 10, 40, 40);
+
+                doc.setFontSize(12);
+                doc.setFont('helvetica', 'bold');
+                doc.text('Carné de Socio - ArcoTeo', 10, 15);
+
+                doc.setFont('helvetica', 'normal');
+
+                const tab = '                    ';
+                const startY = 25;
+                const lineHeight = 6;
+
+                doc.setTextColor(150);
+                doc.text('Nome:', 10, startY);
+                doc.text('Apelidos:', 10, startY + lineHeight);
+                doc.text('DNI:', 10, startY + 2 * lineHeight);
+                doc.text('Localidade:', 10, startY + 3 * lineHeight);
+                doc.text('Validez dende 01/09/2024 ao 31/08/2025', 10, startY + 5 * lineHeight);
+
+                doc.setTextColor(0);
+                doc.text(`${tab}${socio.Nome}`, 10, startY);
+                doc.text(`${tab}${socio.Apelidos}`, 10, startY + lineHeight);
+                doc.text(`${tab}${socio.DNI}`, 10, startY + 2 * lineHeight);
+                doc.text(`${tab}${socio.Localidade}`, 10, startY + 3 * lineHeight);
+     
+ 
+ 
+
+                doc.save(`${socio.Nome}_${socio.DNI}.pdf`);
+            };
+
+            errorElement.textContent = '';
+        }
+    </script>
+</body>
+</html>
