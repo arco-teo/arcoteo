@@ -17,26 +17,26 @@ Cunha destacada participación no podio nas súas categorías de:
 📸 Fotografías de Serxio, Iné e Pilar.
 
 
-![](../2025-03-29-escola-adarve/01.jpeg)
+![](../2025-03-29-escola-adarve/01.jpg)
 
 
-![](../2025-03-29-escola-adarve/02.jpeg)
+![](../2025-03-29-escola-adarve/02.jpg)
 
-![](../2025-03-29-escola-adarve/03.jpeg)
+![](../2025-03-29-escola-adarve/03.jpg)
 
-![](../2025-03-29-escola-adarve/04.jpeg)
+![](../2025-03-29-escola-adarve/04.jpg)
 
-![](../2025-03-29-escola-adarve/05.jpeg)
+![](../2025-03-29-escola-adarve/05.jpg)
 
-![](../2025-03-29-escola-adarve/06.jpeg)
+![](../2025-03-29-escola-adarve/06.jpg)
 
-![](../2025-03-29-escola-adarve06_.jpeg)
+![](../2025-03-29-escola-adarve06_.jpg)
 
-![](../2025-03-29-escola-adarve07.jpeg)
+![](../2025-03-29-escola-adarve07.jpg)
 
-![](../2025-03-29-escola-adarve07_.jpeg)
+![](../2025-03-29-escola-adarve07_.jpg)
 
-![](../2025-03-29-escola-adarve08.jpeg)
+![](../2025-03-29-escola-adarve08.jpg)
 
 
 ##  Clasificación
