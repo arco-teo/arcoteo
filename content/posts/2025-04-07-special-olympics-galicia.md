@@ -1,5 +1,5 @@
 ---
-title: Bo resultado do Arco Teo no Torneo de Escolas de Adarve
+title: Un día de inclusión e ArcoTeo
 date: 2025-04-05
 tags: [ "24-25", "ArcoTeo"]
 image : "/img/post/01.jpg"
