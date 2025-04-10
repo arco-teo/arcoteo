@@ -2,7 +2,7 @@
 title: Bo resultado do Arco Teo no Torneo de Escolas de Adarve
 date: 2025-03-29
 tags: ["adarve24-25", "24-25"]
-image : "/img/post/2024-03-29-adarve.jpg"
+image :  "/img/post/2024-03-29-adarve.jpg"
 Description  : "O Arco Teo destacou no Torneo de Escolas de Adarve celebrado o 29 de marzo de 2025, con medallas para Pilar Costa Pena (ouro), Inés Portela Barreiro (prata) e Lola Louro Calvo (bronce)."
 #draft: true 
 ---
