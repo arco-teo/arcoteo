@@ -2,7 +2,7 @@
 title:  Torneo de Escolas de Arco de Laracha
 date: 2025-05-10
 tags: ["adarve24-25", "24-25"]
-image : "/img/post/2025-02-22-social-adarve.jpeg"
+image : "/img/post/2025-05-laracha.jpeg"
 Description  : " Torneo de Escolas de Arco de Laracha"
 #draft: true 
 ---
@@ -15,18 +15,18 @@ Ademais, os adultos tamén brillaron nas súas respectivas categorías, logrando
 Enhoraboa ao equipo polo seu esforzo e dedicación! 
 
 
-<!-- 
 
 ## Imáxenes
 
-![](../2025-02-22-adarve-social/01.jpeg)
+![](../2025-05-22-laracha/01.jpeg)
 
 
-![](../2025-02-22-adarve-social/02.jpeg)
+![](../2025-05-22-laracha/02.jpeg)
 
-![](../2025-02-22-adarve-social/03.jpeg)
+![](../2025-05-22-laracha/03.jpeg)
 
-![](../2025-02-22-adarve-social/04.jpeg)
+![](../2025-05-22-laracha/04.jpeg)
+<!-- 
 
 ![](../2025-02-22-adarve-social/05.jpeg)
 
