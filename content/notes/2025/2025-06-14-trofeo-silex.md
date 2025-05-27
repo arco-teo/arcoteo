@@ -1,6 +1,6 @@
 ---
 title:   XXXII TROFEO SILEX
-date: 2025-06-14
+date: 2025-05-27
 
 ---
 
