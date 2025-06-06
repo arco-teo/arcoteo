@@ -3,7 +3,7 @@ title: Campionato Galego ao Aire Libre
 date: 2025-06-01
 tags: ["raus-24-25", "24-25"]
 image : "/img/post/2025-06-01-lga-galego.jpeg"  
-Description  : "  "
+Description  : " O Campionato Galego de Tiro con Arco en Narón destacou polo vento e a alta competitividade. A proba reuniu a numerosos deportistas de toda Galicia. "
 ---
 
 ##  Campionato Galego  2025
