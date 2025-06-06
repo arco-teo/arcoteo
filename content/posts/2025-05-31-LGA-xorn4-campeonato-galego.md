@@ -4,7 +4,6 @@ date: 2025-06-01
 tags: ["raus-24-25", "24-25"]
 image : "/img/post/2025-06-01-lga-galego.jpeg"  
 Description  : "  "
-draft: true 
 ---
 
 ##  Campionato Galego  2025
