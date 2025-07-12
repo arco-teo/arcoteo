@@ -19,7 +19,7 @@ Pola tarde, tivo ocasión de participar tamén no **Trofeo Costa da Morte**, unh
 
 ## Imáxenes
 
-![](../2025-07-06-copa-federacion/1.jpeg)
+![](../2025-07-06-copa-federacion/01.jpeg)
 
 
 ![](../2025-07-06-copa-federacion/02.jpeg)
