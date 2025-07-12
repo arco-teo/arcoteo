@@ -3,7 +3,7 @@ title: Trofeo Federación Aire Libre
 date: 2025-07-06
 tags: [ "24-25"]
 image : "/img/post/2025-07-06-copafederacion.jpeg"
-Description  : " Trofeo Federación ao Aire Libre"
+Description  : " O 6 de xullo, Pablo Belay foi 8º no Trofeo Federación con 493 puntos e caeu en cuartos no Costa da Morte ante o campión Daniel Castro"
 #draft: true 
 ---
 
