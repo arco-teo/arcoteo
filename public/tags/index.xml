@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ArcoTeo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on ArcoTeo</description>
+    <generator>Hugo</generator>
+    <language>gl-es</language>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>24-25</title>
+      <link>/tags/24-25/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/24-25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raus-24-25</title>
+      <link>/tags/raus-24-25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/raus-24-25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adarve24-25</title>
+      <link>/tags/adarve24-25/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/adarve24-25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ArcoTeo</title>
+      <link>/tags/arcoteo/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/arcoteo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
