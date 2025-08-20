@@ -72,10 +72,10 @@ description="Clube de Tiro con ArcoTeo."
     url = "/tags/"
     weight = 3
 
-# [[menu.main]]
-#    name = "Collections"
-#    url = "/collections/"
-#    weight = 4
+ [[menu.main]]
+    name = "Collections"
+    url = "/collections/"
+    weight = 4
 
 [[menu.main]]
     name = "Ferramentas"
