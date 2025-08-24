@@ -2,8 +2,8 @@
 title: Participación destacada de Pablo Belay no Torneo “Arcos Texu” en Avilés
 date: 2025-08-23
 tags: [ "24-25"]
-image : "/img/post/2025-08-09-cutarc-540.jpeg"
-Description  : "Pablo Belay logrou o 3º posto no Torneo Arcos Texu en Avilés e venceu no formato morte súbita. Competiu xunto aos seus compañeiros do Club Adarve nun evento con arqueiros de toda España."
+image : "/img/post/2025-08-23-arco-teixu.jpeg"
+Description  : "Pablo Belay logrou o 3º posto no Torneo Arcos Texu en Avilés e venceu no formato morte súbita. Competiu xunto aos seus compañeiros do Club Adarve nun evento con arqueiros de diferentes lugares."
 #draft: true 
 ---
 
