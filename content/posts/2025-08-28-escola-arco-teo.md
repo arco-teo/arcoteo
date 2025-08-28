@@ -1,8 +1,8 @@
 ---
 title: 📢 Prazo aberto para inscribirse na Escola de Arco
 date: 2025-08-28
-tags: [ "25-26"]
-image : "/img/post/2025-09-28-escola_arco.png
+tags: ["25-26"]
+image : "/img/post/2025-09-28-escola_arco.png"
 Description  : "O Concello informa de que xa está aberto o prazo para **inscribirse na Escola de Arco** para a tempada 2025-2026.  "
 #draft: true 
 ---
