@@ -34,13 +34,10 @@
 # Footer
 - id: poweredBy # Accepts HTML
   translation: 'Este clube conta coa colaboración de: <br> <span style="float:center;" class="sponsors">
-
-    <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:50px; margin:0 5px; vertical-align:middle; display:inline-block;"> 
-    <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:50px; margin:0 5px; vertical-align:middle; display:inline-block;"> 
-    <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:50px; margin:0 5px; vertical-align:middle;"> 
-
+    <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> 
+    <!-- <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> --> 
     </span> &nbsp;| Powered by Pablo'
-  #translation: 'Powered by Pablo.&nbsp;'
+   #translation: 'Powered by Pablo.&nbsp;'
 
 # Navigation
 - id: toggleNavigation
