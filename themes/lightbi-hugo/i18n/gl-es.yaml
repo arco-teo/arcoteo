@@ -35,7 +35,7 @@
   translation: 'Este clube conta coa colaboración de: <br> <span style="float:center;" class="sponsors">
     <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> 
     <!-- <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> --> 
-    </span> &nbsp;| Powered by Pablo'
+    </span> &nbsp;<br>| Powered by Pablo'
    #translation: 'Powered by Pablo.&nbsp;'
 
 # Navegación
