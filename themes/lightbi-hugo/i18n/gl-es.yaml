@@ -32,7 +32,12 @@
 
 # Pé de páxina
 - id: poweredBy # Accepta HTML
-  translation: 'Powered by Pablo.&nbsp;'
+  translation: 'Este clube conta coa colaboración de:  <span class="sponsors">
+    <img src="/img/logoteo.png" alt="Concello de Teo"> 
+    <img src="/images/colaborador2.png" alt="Colaborador 2"> 
+    <img src="/images/colaborador3.png" alt="Colaborador 3"></span> &nbsp;| Powered by Pablo'
+  #translation: 'Powered by Pablo.&nbsp;'
+  #translation: 'Powered by Pablo.&nbsp;'
 
 # Navegación
 - id: toggleNavigation
