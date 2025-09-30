@@ -32,10 +32,15 @@
 
 # Pé de páxina
 - id: poweredBy # Accepta HTML
-  translation: 'Este clube conta coa colaboración de: <br> <span style="float:center;" class="sponsors">
-    <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> 
-    <!-- <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; margin:0 5px; vertical-align:middle; display:inline-block;"> --> 
-    </span> &nbsp;<br>| Powered by Pablo'
+  translation: 'Este clube conta coa colaboración de: <br> 
+    <span class="sponsors" style="display:flex; justify-content:center; gap:20px;">
+    <figure style="text-align:center; display:inline-block; margin:0;">
+      <img src="/arcoteo/img/footer/logoteo.png" alt="Concello de Teo" style="height:100px; display:block; margin:0 auto;">
+      <figcaption style="font-size:10px; margin-top:5px;">Concello de Teo</figcaption>
+    </figure>
+
+     </span>
+    <br>&nbsp; <br>| Powered by Pablo'
    #translation: 'Powered by Pablo.&nbsp;'
 
 # Navegación
