@@ -3,7 +3,7 @@ title: Arco Teo destaca no VIII Lancaster–Ponferrada
 date: 2025-11-08
 tags: ["25-26"]
 image : "/img/post/2025-11-08_ponferrada.jpg"
-description  : "Os arqueiros de Arco Teo brilaron no torneo con frechas certeiras. O torneo foi gañado por  Nuno Carneiro." 
+description  : "Arco Teo destacou no VIII Lancaster–Ponferrada o 8 de novembro. Pablo Belay e Gonzalo Fernández Escudero avanzaron a eliminatorias. Pablo chegou a cuartos de final, caendo ante Marcos Rodríguez Alvar, campión do torneo. Seis arqueiros representaron ao club." 
 draft: false
 ---
 
