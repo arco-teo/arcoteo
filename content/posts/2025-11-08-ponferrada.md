@@ -53,32 +53,32 @@ Máis información sobre o torneo en [IANSEO](https://www.ianseo.net/Details.php
 
 ## Fotografías da xornada
 
-![Imaxe](2025-11-08-ponferrada/00.jpg)
+![Imaxe](../2025-11-08-ponferrada/00.jpg)
 
-![Imaxe](2025-11-08-ponferrada/01.jpg)
+![Imaxe](../2025-11-08-ponferrada/01.jpg)
 
-![Imaxe](2025-11-08-ponferrada/02.jpg)
+![Imaxe](../2025-11-08-ponferrada/02.jpg)
 
-![Imaxe](2025-11-08-ponferrada/03.jpg)
+![Imaxe](../2025-11-08-ponferrada/03.jpg)
 
-![Imaxe](2025-11-08-ponferrada/04.jpg)
+![Imaxe](../2025-11-08-ponferrada/04.jpg)
 
-![Imaxe](2025-11-08-ponferrada/05.jpg)
+![Imaxe](../2025-11-08-ponferrada/05.jpg)
 
-![Imaxe](2025-11-08-ponferrada/06.jpg)
+![Imaxe](../2025-11-08-ponferrada/06.jpg)
 
-![Imaxe](2025-11-08-ponferrada/07.jpg)
+![Imaxe](../2025-11-08-ponferrada/07.jpg)
 
-![Imaxe](2025-11-08-ponferrada/08.jpg)
+![Imaxe](../2025-11-08-ponferrada/08.jpg)
 
-![Imaxe](2025-11-08-ponferrada/09.jpg)
+![Imaxe](../2025-11-08-ponferrada/09.jpg)
 
-![Imaxe](2025-11-08-ponferrada/10.jpg)
+![Imaxe](../2025-11-08-ponferrada/10.jpg)
 
-![Imaxe](2025-11-08-ponferrada/11.jpg)
+![Imaxe](../2025-11-08-ponferrada/11.jpg)
 
-![Imaxe](2025-11-08-ponferrada/12.jpg)
+![Imaxe](../2025-11-08-ponferrada/12.jpg)
 
-![Imaxe](2025-11-08-ponferrada/13.jpg)
+![Imaxe](../2025-11-08-ponferrada/13.jpg)
 
  
