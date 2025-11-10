@@ -20,14 +20,14 @@ Os arqueiros do Club Arco Teo Pablo Belay e Gonzalo Fernández Escudero consegui
 
 En octavos de finais Gonzalo Fernández Escudero enfrontouse a Yago Revuelto López. Este rival mostrou unha gran precisión logrando no clasificatorio unha puntuación de 581 puntos e o primeiro posto. O encontro tivo as seguintes puntuacións: 
 
-| Nome     | Série 1 | Série 2 | Série 3 | Série 4 | Total |
+| Nome     | Serie 1 | Serie 2 | Serie 3 | Serie 4 | Total |
 |----------|---------|---------|---------|---------|-------|
 | **Yago   Revuelto López** |   29    |   30    |   29    |   29    |  **117**  |
 | Gonzalo Fernández Escudero |   26    |   26    |   26    |   22    |  100  |
 
 O outro arqueiro do club Pablo Belay tivo un enfrontamento moi interesante contra Daniel Rodríguez Calvete cun encontro moi reñido e	coas seguintes puntuacións:
 
-| Nome   | Série 1 | Série 2 | Série 3 | Série 4 | Total |
+| Nome   | Serie 1 | Serie 2 | Serie 3 | Serie 4 | Total |
 |--------|---------|---------|---------|---------|-------|
 | Daniel Rodríguez Calvete|   25    |   25    |   24    |   27    |  101  |
 | **Pablo Belay Fernández**  |   30    |   26    |   28    |   30    |  **114**  |
@@ -35,12 +35,16 @@ O outro arqueiro do club Pablo Belay tivo un enfrontamento moi interesante contr
 
 Para cuartos de final só estivo Pablo Belay e se enfrontou a Marcos Rodríguez Alvar o cal finalmente foi o vencedor do torneo. As puntuacións foron as seguintes:
 
-| Nome          | Série 1 | Série 2 | Série 3 | Série 4 | Total |
+| Nome          | Serie 1 | Serie 2 | Serie 3 | Serie 4 | Total |
 |---------------|---------|---------|---------|---------|-------|
 | Pablo Belay   |   26    |   29    |   27    |   27    |  109  |
 | **Marcos Alvar** |   27    |   29    |   30    |   29    |  **115**  |
 
  
+## Torneo secundario do Butelo
+Aqueles arqueiros que non conseguiron avanzar ás eliminatorias principais tiveron a oportunidade de participar no torneo secundario do Butelo. O formato é de eliminatorias directas ou de morte súbita na cal cada tirada se incrementa a puntuación a lograr. Neste torneo participaron Roberto Lois, Óscar Pinaque, Elena Pérez Salas e Sergio Cantalejo.
+
+Na primeira ronda tiñan que acadar 24 puntos onde caeron eliminados Elena Pérez e Sergio Cantalejo. Na seguinte rolda por 25 puntos caeron eliminados Óscar Pinaque e Roberto Lois.
 
 
 
