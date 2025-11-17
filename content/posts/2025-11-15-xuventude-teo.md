@@ -2,7 +2,7 @@
 title: "Xuventude en Teo: Arco Teo achega o tiro con arco"
 date: 2025-11-15
 tags: ["25-26", "actividades"]
-image: "2025-11-15-xuventude-teo/01.jpeg"
+image: "/img/post/2025-11-15-xuventude-teo.jpeg"
 description: "Arco Teo participou no evento Xuventude en Teo no IES Cacheiras, ofrecendo unha actividade de tiro con arco para que a mocidade puidese probar e coñecer esta disciplina."
 draft: false
 ---
