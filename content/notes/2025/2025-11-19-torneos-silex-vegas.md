@@ -43,5 +43,5 @@ date: 2025-11-19
 
 ## 📎 Convocatoria
 
-- Bases/cartaz: [PDF "Trofeo Concello Decembro 2025 As Vegas"](../2025-11-19-torneos-silex-vegas/Trofeo%20Concello%20Decembro%202025%20As%20Vegas.pdf)
+- Bases/cartaz: [PDF "Trofeo Concello Decembro 2025 As Vegas"](https://arco-teo.github.io/arcoteo/2025-11-19-torneos-silex-vegas/Trofeo%20Concello%20Decembro%202025%20As%20Vegas.pdf)
 
