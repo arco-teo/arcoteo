@@ -16,7 +16,7 @@ Esta xornada está deseñada para todo o alumnado da Escola Municipal de Arco do
 - Horario: Recepción ás 16:30h; quecemento ás 17:00h
 - Custo: Evento gratuíto
 - Data límite de inscrición: 14 de decembro
-- [Bases do torneo](../posts/2025-12-19-torneo-nadal/Bases.pdf)
+- [Bases do torneo](https://arco-teo.github.io/arcoteo/2025-12-19-torneo-nadal/Bases.pdf)
 
 ## 🎯 Como será a competición?
 O torneo rexerase pola normativa oficial de World Archery en canto a seguridade e terá dúas fases:
@@ -28,7 +28,7 @@ O torneo rexerase pola normativa oficial de World Archery en canto a seguridade 
 Animámosvos a vir caracterizados polo Nadal. Haberá premio á Mellor Caracterización, valorando orixinalidade, nivel de detalle (de pés a cabeza) e integración de elementos do Nadal no equipo de tiro, sempre garantindo a seguridade.
 
 
-![Cartel](../2025-12-19-torneo-nadal/cartel-torneo-nadal.png)
+![Cartel](../2025-12-19-torneo-nadal/cartel_v2.png)
 
 
 ## 🥂 Fin de festa
