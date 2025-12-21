@@ -16,7 +16,7 @@ Esta xornada está deseñada para todo o alumnado da Escola Municipal de Arco do
 - Horario: Recepción ás 16:30h; quecemento ás 17:00h
 - Custo: Evento gratuíto
 - Data límite de inscrición: 14 de decembro
-- [Bases do torneo](https://arco-teo.github.io/arcoteo/2025-12-19-torneo-nadal/Bases.pdf)
+- [Bases do torneo](/2025-12-19-torneo-nadal/Bases.pdf)
 
 ## 🎯 Como será a competición?
 O torneo rexerase pola normativa oficial de World Archery en canto a seguridade e terá dúas fases:
