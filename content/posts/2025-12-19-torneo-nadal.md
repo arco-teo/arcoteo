@@ -1,6 +1,6 @@
 ---
 title: "1º Torneo de Nadal Arco Teo"
-date: 2025-12-19
+date: 2025-12-01
 tags: [ "torneos", "eventos"]
 image: "/img/post/2025_arco_nadal.png"
 description: "Anuncio do primeiro Torneo de Nadal de Arco Teo para a escola municipal e deportistas noveis."
@@ -34,4 +34,9 @@ Animámosvos a vir caracterizados polo Nadal. Haberá premio á Mellor Caracteri
 ## 🥂 Fin de festa
 Tras a entrega de premios (19:45), compartiremos uns pinchos de confraternidade para celebrar xuntos estas datas tan sinaladas.
 
+
 Non agardes máis: inscríbete antes do 14 de decembro. Vémonos na liña de tiro!
+
+Esta actividade conta coa colaboración do Concello de Teo, área de Deportes, e agradecemos o seu apoio para facer posible este evento.
+
+
