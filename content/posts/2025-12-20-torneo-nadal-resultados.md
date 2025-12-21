@@ -15,9 +15,9 @@ A competición desenvolveuse en dúas fases: unha clasificatoria de 30 frechas e
 
 ### 📋 Documentos oficiais
 
- - [Clasificación final](../../2025-12-20-torneo-nadal-resultados/Clasificación%20final.pdf)
- - [Tablillas de puntuacións](../../2025-12-20-torneo-nadal-resultados/Tablillas_puntuaciones.pdf)
- - [Lista de podium](../../2025-12-20-torneo-nadal-resultados/listaPodium.pdf)
+ - [Clasificación final](../../2025-12-20-torneo-nadal-resultados/clasificaionFinalGal.pdf)
+ - [Tablillas de puntuacións](../../2025-12-20-torneo-nadal-resultados/Tablillas_puntuaciones_gal.pdf)
+ - [Lista de podium](../../2025-12-20-torneo-nadal-resultados/listaPodiumGal.pdf)
 
 ## 🎅 Concurso de caracterización
 
