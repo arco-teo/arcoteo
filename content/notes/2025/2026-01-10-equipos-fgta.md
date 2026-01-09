@@ -1,6 +1,6 @@
 ---
 title: Campionato Galego de Equipos en Sala 2026
-date: 2026-01-10
+date: 2026-01-09
 
 ---
 

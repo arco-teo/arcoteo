@@ -1,6 +1,6 @@
 ---
 title: "🥈 Prata para o equipo de Recurvo na Liga Galega de Sala"
-date: 2026-01-10
+date: 2026-01-09
 tags: ["25-26" ,"raus-25-26"]
 image: "/img/post/raus.png"
 description: "O noso equipo de Recurvo Senior Home logrou o 2º posto na Liga Galega de Sala con 4.320 puntos."
