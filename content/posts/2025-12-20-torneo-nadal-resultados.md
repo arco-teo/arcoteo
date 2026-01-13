@@ -71,6 +71,6 @@ Tras a entrega de premios, compartimos uns pinchos de confraternidade para celeb
 
 Esta actividade contou coa colaboración do **Concello de Teo, área de Deportes**, e agradecemos o seu apoio para facer posible este evento. Tamén queremos dar as grazas a todos os participantes, familias e voluntarios que fixeron deste primeiro Torneo de Nadal unha xornada inolvidable.
 
-Ata a próxima edición!
+Ata a próxima edición!!
 
 
