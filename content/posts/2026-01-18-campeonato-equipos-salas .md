@@ -2,7 +2,7 @@
 title: " O Arco Teo participan no Campionato Galego de Equipos de Club en Sala"
 date: 2026-01-17
 tags: ["25-26" ,"raus-25-26"]
-image: "/img/post/raus.png"
+image: "/img/post/2026-01-18-campeonato-equipos-salas.jpg"
 description: "O noso equipo de Recurvo Senior Home logrou o 2º posto na Liga Galega de Sala con 4.320 puntos."
 draft: false
 ---
