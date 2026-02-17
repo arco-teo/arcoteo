@@ -2,7 +2,7 @@
 title: "Torneo de eliminatorias de The Cutarc Team"
 date: 2026-02-14
 tags: ["25-26", "torneos"]
-image: "/img/post/2026_01_24_cutarc.png"
+image: "/img/post/2026_02_14_camp_espanha_sala.jpg"
 description: "Campeonato de España Absoluto de Arco Recurvo y Compuesto en Sala. 2025-2026"
 draft: false
 ---
@@ -71,7 +71,7 @@ Na fase de eliminatorias de Composto Feminino, Verónica Presa Boullosa (GAL) su
 
 ## Galería de fotos
 
-{{< gallery dir="2026-02-14-camp-sala-espanha" >}}
+{{< gallery dir="2026-02-14-camp-sala-espanha" />}}
 
 Información do torneo en [Ianseo](https://www.ianseo.net/Details.php?toId=26559) .
 
