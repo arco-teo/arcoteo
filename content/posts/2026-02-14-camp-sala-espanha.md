@@ -71,7 +71,16 @@ Na fase de eliminatorias de Composto Feminino, Verónica Presa Boullosa (GAL) su
 
 ## Galería de fotos
 
-{{< gallery dir="2026-02-14-camp-sala-espanha" />}}
+
+## Galería de fotos
+
+- [01.jpg](/2026-02-14-camp-sala-espanha/01.jpg)
+- [02.jpg](/2026-02-14-camp-sala-espanha/02.jpg)
+- [03.jpg](/2026-02-14-camp-sala-espanha/03.jpg)
+- [03_1.jpg](/2026-02-14-camp-sala-espanha/03_1.jpg)
+- [04.jpg](/2026-02-14-camp-sala-espanha/04.jpg)
+- [05.jpg](/2026-02-14-camp-sala-espanha/05.jpg)
+- [06.jpg](/2026-02-14-camp-sala-espanha/06.jpg)
 
 Información do torneo en [Ianseo](https://www.ianseo.net/Details.php?toId=26559) .
 
