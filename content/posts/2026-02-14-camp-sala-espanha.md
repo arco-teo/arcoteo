@@ -68,11 +68,10 @@ Na categoría de Composto Home, os representantes galegos foron:
 - Juan José Alejandre Rodríguez (54º, 563 puntos)
 - Luis Domínguez Rey (77º, 541 puntos)
 
-Na fase de eliminatorias de Composto Home, Daniel Castro Barcala (GAL) superou a primeira rolda (1/16) vencendo a Pérez Pérez Jose (CAT) por 147-143, caendo en 1/8 ante Linares Martínez Gonzalo (Madrid) por 144-147.
-
-Luis Argüelles Pérez (GAL) tamén gañou en 1/16 a Garcia Cepa Endika (País Vasco) por 145-145 (desempate), pero foi eliminado en 1/8 por Langarita Monteagudo Pedro Julio (Aragón) por 144-147.
-
-Xes Argüelles Presa (GAL) caeu en 1/16 ante Martinez Martin Jaime (País Vasco) por 139-145.
+Na fase de eliminatorias de Composto Home:
+-  Daniel Castro Barcala (GAL) superou a primeira rolda (1/16) vencendo a Pérez Pérez Jose (CAT) por 147-143, caendo en 1/8 ante Linares Martínez Gonzalo (Madrid) por 144-147.
+-  Luis Argüelles Pérez (GAL) tamén gañou en 1/16 a Garcia Cepa Endika (País Vasco) por 145-145 (desempate), pero foi eliminado en 1/8 por Langarita Monteagudo Pedro Julio (Aragón) por 144-147.
+-  Xes Argüelles Presa (GAL) caeu en 1/16 ante Martinez Martin Jaime (País Vasco) por 139-145.
 
 
 
