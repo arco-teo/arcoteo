@@ -1,9 +1,9 @@
 ---
-title: "Torneo de eliminatorias de The Cutarc Team"
+title: "Campeonato de España Absoluto de Arco Recurvo y Compuesto en Sala. 2025-2026"
 date: 2026-02-14
 tags: ["25-26", "torneos"]
 image: "/img/post/2026_02_14_camp_espanha_sala.jpg"
-description: "Campeonato de España Absoluto de Arco Recurvo y Compuesto en Sala. 2025-2026"
+description: "Campionato de España Absoluto de Sala 2026: Arco Recurvo e Composto"
 draft: false
 ---
 
@@ -40,6 +40,18 @@ Na categoría de Recurvo Feminino, varias arqueiras galegas participaron na rold
 
 
 
+
+## Galería de fotos
+
+- [01.jpg](/2026-02-14-camp-sala-espanha/01.jpg)
+- [02.jpg](/2026-02-14-camp-sala-espanha/02.jpg)
+- [03.jpg](/2026-02-14-camp-sala-espanha/03.jpg)
+- [03_1.jpg](/2026-02-14-camp-sala-espanha/03_1.jpg)
+- [04.jpg](/2026-02-14-camp-sala-espanha/04.jpg)
+- [05.jpg](/2026-02-14-camp-sala-espanha/05.jpg)
+- [06.jpg](/2026-02-14-camp-sala-espanha/06.jpg)
+
+## Arco Composto
 Na categoría de Composto Home, os representantes galegos foron:
 
 - Daniel Castro Barcala (11º, 583 puntos)
@@ -67,16 +79,6 @@ Na categoría de Composto Muller, a representación galega foi:
 Na fase de eliminatorias de Composto Feminino, Verónica Presa Boullosa (GAL) superou a primeira rolda (1/16) vencendo a De La Cuesta Ruiz Laura (Castela e León) por 143-136, caendo en 1/8 ante Muñoz Saiz Clara (Madrid) por 140-148.
 
 
-
-## Galería de fotos
-
-- [01.jpg](/2026-02-14-camp-sala-espanha/01.jpg)
-- [02.jpg](/2026-02-14-camp-sala-espanha/02.jpg)
-- [03.jpg](/2026-02-14-camp-sala-espanha/03.jpg)
-- [03_1.jpg](/2026-02-14-camp-sala-espanha/03_1.jpg)
-- [04.jpg](/2026-02-14-camp-sala-espanha/04.jpg)
-- [05.jpg](/2026-02-14-camp-sala-espanha/05.jpg)
-- [06.jpg](/2026-02-14-camp-sala-espanha/06.jpg)
 
 Información do torneo en [Ianseo](https://www.ianseo.net/Details.php?toId=26559) .
 
