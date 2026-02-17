@@ -68,10 +68,6 @@ Na fase de eliminatorias de Composto Feminino, Verónica Presa Boullosa (GAL) su
 
 
 
-
-## Galería de fotos
-
-
 ## Galería de fotos
 
 - [01.jpg](/2026-02-14-camp-sala-espanha/01.jpg)
