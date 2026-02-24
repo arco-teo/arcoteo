@@ -4,7 +4,7 @@ date: 2026-02-18
 
 ---
 
-[Descargar Calendario Deportivo 2025-26 - Versión: 26/02/18](/calendario/Calendario-deportivo-2025-26-VERSION_260218.pdf)
+[Descargar Calendario Deportivo 2025-26 - Versión: 26/02/18](https://arco-teo.github.io/arcoteo/calendario/Calendario-deportivo-2025-26-VERSION_260218.pdf)
 
 ## Resumen de Torneos  de Aire Libre da FGTA en Recurvo
 
