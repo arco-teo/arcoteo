@@ -23,6 +23,6 @@ Este éxito foi posible grazas á gran actuación dos nosos arqueiros:
 Destacar tamén a **Pilar Costa Pena** (Recurvo +50 Muller), **Campiona Galega** con 408 puntos na clasificatoria e vitoria na final. 🏆
 
 
-📄 **Documento oficial**: [LIGA-SALA-2025-26-doc-R03.pdf](../../2026-01-10-liga-equipos-salas/LIGA-SALA-2025-26-doc-R03.pdf)
+📄 **Documento oficial**: [LIGA-SALA-2025-26-doc-R03.pdf](/2026-01-10-liga-equipos-salas/LIGA-SALA-2025-26-doc-R03.pdf)
 
 
