@@ -7,7 +7,7 @@ description: "I Torneo Concello de Teo - Arco Teo no Pabellón Ezequiel Mosquera
 draft: false
 ---
 
-O I Torneo Concello de Teo celebráronse o 23 de maio de 2026 no Pabellón Ezequiel Mosquera de Teo, un evento de nivel de escolas deportivas deseñado para promover o coñecemento e a práctica do arco entre os deportistas en formación. Esta competición reuniu participantes de diferentes categorías, desde escolares ata séniors, nunha xornada dedicada ao desenvolvemento técnico e a formación de novos talentos na disciplina do arco.
+O I Torneo Concello de Teo celebráronse o 23 de maio de 2026 no Pabellón Ezequiel Mosquera de Teo, un evento de nivel de escolas deportivas deseñado para promover o coñecemento e a práctica do arco entre os deportistas en formación. Esta competición reuniu participantes de diferentes categorías, desde escolares ata séniors, nunha xornada dedicada ao desenvolvemento técnico e a formación de novos talentos na disciplina do arco. Queremos agradecer  ao Concello de Teo pola súa colaboración.
 
 ## Clasificacións
 
@@ -61,6 +61,23 @@ O I Torneo Concello de Teo celebráronse o 23 de maio de 2026 no Pabellón Ezequ
 ![Foto 7](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-07.jpg)
 ![Foto 8](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-08.jpg)
 ![Foto 9](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-09.jpg)
+![Foto 10](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-10.jpg)
+![Foto 11](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-11.jpg)
+![Foto 12](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-12.jpg)
+![Foto 13](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-13.jpg)
+![Foto 14](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-14.jpg)
+![Foto 15](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-15.jpg)
+![Foto 16](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-16.jpg)
+![Foto 17](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-17.jpg)
+![Foto 21](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-21.jpg)
+![Foto 22](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-22.jpg)
+![Foto 23](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-23.jpg)
+![Foto 24](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-24.jpg)
+![Foto 25](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-25.jpg)
+![Foto 26](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-26.jpg)
+![Foto 27](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-27.jpg)
+![Foto 28](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-28.jpg)
+![Foto 29](../2026-05-23-i-torneo-concello-teo/torneo-i-teo-29.jpg)
 
 
  
