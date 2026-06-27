@@ -11,6 +11,6 @@ O pasado sábado 20 de xuño, o Campo de Fútbol da Laracha acolleu o torneo de 
 
 # Fotografías
 
- ![Foto 2](2026-06-20-laracha-aire-libre/laracha1.jpg)
-![Foto 3](2026-06-20-laracha-aire-libre/laracha2.jpg)
-![Foto 4](2026-06-20-laracha-aire-libre/laracha3.jpeg)
+ ![Foto 2](../2026-06-20-laracha-aire-libre/laracha1.jpg)
+![Foto 3](../2026-06-20-laracha-aire-libre/laracha2.jpg)
+![Foto 4](../2026-06-20-laracha-aire-libre/laracha3.jpeg)
