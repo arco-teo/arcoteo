@@ -19,6 +19,8 @@ Roberto logrou pechar a xornada nunha excelente 8ª posición da clasificación 
 
 Dende Arco Teo queremos dar os nosos parabéns ao Club Boa Vila por estes 35 anos de traxectoria impulsando o tiro con arco en Galicia, así como agradecer a fantástica organización do trofeo.
 
+[Máis información en Ianseo](https://www.ianseo.net/Details.php?toId=29056)
+
 # Fotografías
 
  ![Foto 2](../2026-07-11-trofeo-boavila/boavila-01.jpeg)
