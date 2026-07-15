@@ -1,6 +1,6 @@
 ---
 title: "Trofeo 35º Aniversario do Club Boa Vila"
-date: 2026-06-20
+date: 2026-07-11
 image: "/img/post/2026-07-11-trofeo-boavila.jpg" 
 tags: ["torneos", "boavila", "2026"]
 description: "No Trofeo 35º Aniversario do Club Boa Vila, celebrado na Laracha o 11 de xullo de 2026, Roberto Lois Rodríguez representou Arco Teo en Recurvo Home con 490 puntos e rematou 8º."
