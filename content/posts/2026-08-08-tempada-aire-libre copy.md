@@ -7,4 +7,4 @@ description: "No Trofeo 35º Aniversario do Club Boa Vila, celebrado na Laracha 
 draft: false
 ---
 
-Copia
+Copia!!
